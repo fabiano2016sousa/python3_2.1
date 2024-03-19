@@ -1,0 +1,8 @@
+instalar na maquina o mouseinfo
+ => pip install mouseinfo
+
+ após entra no terminal interativo do python e digitar:
+ => from mouseinfo import mouseInfor
+ 
+ link usado para teste:
+ => https://cadastro-produtos-devaprender.netlify.app/
